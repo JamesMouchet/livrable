@@ -120,10 +120,10 @@ PHP Arithmetic Operators
 PHP Assignment Operators
 
 x = y	x = y	The left operand gets set to the value of the expression on the right
-x += y	x = x + y	Addition	Show it »
-x -= y	x = x - y	Subtraction	Show it »
-x *= y	x = x * y	Multiplication	Show it »
-x /= y	x = x / y	Division	Show it »
+x += y	x = x + y	Additions
+x -= y	x = x - y	Subtraction
+x *= y	x = x * y	Multiplication
+x /= y	x = x / y	Division
 x %= y	x = x % y	Modulus
 ```
 
