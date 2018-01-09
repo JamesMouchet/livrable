@@ -65,6 +65,7 @@ Crée un dépôt local à partir du nom spécifié
 
 $ git clone [url]
 Télécharge un projet et tout son historique de versions
+Pas de git init lorsque git clone.
 ```
 
 ## ENREGISTRER DES FRAGMENTS
